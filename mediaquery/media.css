@@ -8,5 +8,6 @@
 @media (300px <= width) {
   .outer {
     background-color: brown;
+    color: aqua;
   }
 }
