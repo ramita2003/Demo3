@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main {
+  height: 40rem;
+  background-color: black;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.one {
+  background-color: aqua;
+  width: 30%;
+  height: 10rem;
+}
+.two {
+  width: 30%;
+  height: 10rem;
+  background-color: blueviolet;
+}
+
+.three {
+  width: 30%;
+  height: 10rem;
+  background-color: brown;
+}
+.four {
+  width: 30%;
+  height: 10rem;
+  background-color: yellow;
+}
+.five {
+  width: 30%;
+  height: 10rem;
+  background-color: tomato;
+}
+.six {
+  width: 30%;
+  height: 10rem;
+  background-color: seagreen;
+}

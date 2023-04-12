@@ -1,0 +1,35 @@
+.main {
+  background-color: black;
+  width: 90%;
+  height: 20rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-row-gap: 2rem;
+}
+
+.one {
+  background-color: aqua;
+  display: grid;
+  place-items: center;
+}
+.two {
+  background-color: blueviolet;
+}
+.three > img {
+  height: 10rem;
+  width: 20rem;
+  padding-left: 2rem;
+}
+.three {
+  background-color: brown;
+}
+.four {
+  background-color: yellow;
+}
+.five {
+  background-color: tomato;
+}
+.six {
+  background-color: seagreen;
+}
